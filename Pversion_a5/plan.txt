@@ -1,0 +1,27 @@
+Loot:
+    Erweiterung von den Loot listen
+    Erweiterung von den mod listen
+    Loot system Erschwernis auf zahlen beschränken
+    Tooltip zum nutzen des Entryfelds
+
+Encounter:
+    Erweiterung der zufallsbegegnungen
+    Encounter text zeilenabstand
+    Encounter Auswahl "zittern"
+
+Neues:
+    Heldentagebuch/Kalender
+        -> Wie/ Wo
+        -> Dropdown
+            -> Charnamen eintrag
+    
+
+    Infotab
+        -> Versionsnummer
+        -> Discord
+        -> Github?
+        -> Autor Kjell, Berserker
+        
+
+weiteres:
+Auf feedback warten
