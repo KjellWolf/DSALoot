@@ -1,0 +1,14 @@
+    Erweiterung von den Loot listen
+    Erweiterung von den mod listen
+
+x   Hinzufügen eines Icons
+x   Hinzufügen der versionsnummer
+x   Hinzufügen von neuen Discord für Support
+
+x   Font der generierten liste vergrößern
+
+x   Buton erhöhen
+x   Button Farbe, und Form
+
+weiteres:
+Auf feedback warten

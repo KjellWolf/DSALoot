@@ -1,0 +1,198 @@
+schrott = ["Fussel",            #zufall farbe
+        "Flusen",                       #zufall farbe
+        "Verrossteter Schlüssel",
+        "Alter Liebesbrief",
+        "Holzmurmeln",                  #zufall anzahl
+        "Fünf Eicheln",
+        "Eine Socke",                   #zufall Farbe, Paar(liks o rechts), 
+        "Bittschrift eines Schuldners", 
+        "Eine Ordentliche Prise Salz",
+        "Zettel mit Wirren Zahlen",     #zufall zahlen
+        "Angefangener Liebesbrief",     
+        "Kinderzeichnug eines Baums",
+        "Büchel Haare",                 #zufall farbe
+        "Getrokneter Kot im Beutel",    #zufall gewicht
+        "Sehr Beißender schnupftaback", #zufall portionen
+        "Gebrauchtes Taschentuch",      #zufall farbe
+        "Unleserliches Notzizbuch",     #zufall farbe
+        "Einkaufliste",                 #zufall anzahl
+        "Hand Voll Asche",
+        "Halbfertige Wachsfigur"]
+
+normal = ["Wollknäul",          #zufall Farbe, anzahl
+        "Billiger Kautabak",            #zufall portionen
+        "Stück Kreide",                 #zufall anzahl,farbe
+        "Tintenfass",                   #zufall voll/leer
+        "Ruß zum Schminken",            #zufall portionen
+        "Strohhut",
+        "Nägel",                        #Zufall Anzahl, Rostig-Normal
+        "Kiste voller Fischschuppen",   #zufall gewicht
+        "Dicke Wurzel",                 #zufall gewicht
+        "Kleine Schnapsflasche",        #zufall voll/leer
+        "Tierknochen",                  #zufall Anzahl
+        "Trokene Brotkante",
+        "Zähne im Lederbeutel",         #zufall Anzahl
+        "Pfeife mit Tabak",             #zufall portionen
+        "Siegelwachs",                  #zufall portionen
+        "Buntes Haarband",              #zufall Farbe, Anzahl
+        "Tote Maus",
+        "Teil einer Schatzkarte",       #zufall Quali
+        "Tinkturen",                    #zufall Farbe
+        "Tontigel mit Fettsalbe",
+        "Schreibfeder"]        #zufall portionen
+
+
+selten = ["Götterstatuette",    #zufall Gott
+        "Gesichtspuder",                #zufall portionen
+        "Ring mit Göttersymbol",        #zufall Gott
+        "Räucherstäbchen",              #zufall anzahl
+        "Ausgestopfte Krähe",           
+        "Halskette in Tierform",        #Zufall 12götter-Tier, Quali
+        "Bauskizzen eines Anwesen",     #zufall Baukosten
+        "Gewürz",                       #zufall portionen
+        "Talisman aus Federn",          #zufall anzahl-federn             
+        "Schleier",                     #zufall farbe
+        "Schlangenhaut",                #zufall quali
+        "Kartenset für Wahrsagerrei",   #zufall volständigkeit
+        "Figurtiere der 12 Götter",
+        "Miniatur eines Hirsches",
+        "Flöte",                        #zufall material, Quali
+        "Einfacher Holzring",           #zufall anzahl
+        "Exquisiter schnaps",           #zufall liter
+        "Premer feuer 1 Schank",         
+        "Fuchspelz",                    #zufall qualität
+        "Bronzener Armreif"]             #zufall qualität
+ 
+
+sehr_selten = ["Getrocknete Teeblätter", #zufall ,portionen qualität
+                "Ilmenblatt",                   #zufall portionen
+                "Münzsack",                     #zufall qualität            
+                "Kaputter Kompass",
+                "Stirnreif",                    #zufall farbe
+                "Granatkristall",               #zufall anzahl
+                "Smaragtgrüne Schreibtinte",    #zufall portionen
+                "Aquamarin",                    #zufall anzahl
+                "Faustgroßer Würfel",
+                "Faltmesser",                   #zufall quali   
+                "12 Göttliches Gebetsbuch",     #zufall gott
+                "Bronzekrone",                  #zufall quali     
+                "Eigen magnetischer Erzklumpen",#zufall gewicht
+                "Augenimitat aus Elfenbein",
+                "Wolfsfell Waldwolf",           #zufall qualität
+                "Kristallpokal",
+                "Bronzeschatulle mit Tabak",    #zufall qualität, portionen
+                "Weißes Wolfsfell",             #zufall qualität
+                "Phiole mit verschluss",        #zufall voll/leer
+                "Klingende Spieluhr"]
+
+epic = ["Edelstein",            #zufall qualität
+        "Mondsilberklumpen",            #zufall gewicht 
+        "Goldenes Zepter",              
+        "Perlenkette",                  #zufall qualität
+        "Silberbesteck",                #zufall qualität
+        "Kurzstab mit Rabenkopf",
+        "Silberkette mit Juwel",
+        "verziertes Fernrohr",
+        "Gemälde einer Alten Tulamidin",    #zufall zustand
+        "Besitzuhrkunde für länderreien",   #zufall wert
+        "Einfache Krone",                   
+        "Edler Dolch aus Silber",           
+        "Wertscheine der Nordlandbank",  #zufall wert
+        "Vinsalter Ei",                     
+        "Emblem des Herscherhauses",     
+        "Alt Bosbaranische Vase",        #zufall zustand   
+        "Brokatrobe",                    #zufall zustand
+        "Kerzenleuchter",
+        "Elfenkurzbogen aus Elfenbein",  #zufall zustand
+        "Roter Goldfälser Wein 1 Schank"]
+
+#tables = [schrott, normal, selten, sehr_selten, epic]
+
+####################################################################
+quali = ["Alter Liebesbrief",
+        "Teil einer Schatzkarte", 
+        "Halskette in Tierform",
+        "Schlangenhaut",
+        "Flöte",
+        "Fuchspelz",
+        "Bronzener Armreif", 
+        "Getrocknete Teeblätter",
+        "Münzsack",
+        "Faltmesser",
+        "Bronzekrone",
+        "Wolfsfell Waldwolf",
+        "Bronzeschatulle mit Tabak",
+        "Weißes Wolfsfell",
+        "Edelstein",
+        "Perlenkette", 
+        "Silberbesteck",
+        "Gemälde einer Alten Tulamidin",
+        "Strohhut",
+        "Schreibfeder",
+        "Alt Bosbaranische Vase",
+        "Schleier",
+        "Elfenkurzbogen aus Elfenbein",
+        "Vinsalter Ei",
+        "Gewürz"]
+
+farbe = ["Fussel",
+        "Flusen",
+        "Eine Socke",
+        "Büchel Haare",
+        "Gebrauchtes Taschentuch",
+        "Unleserliches Notzizbuch",
+        "Wollknäul",
+        "Stück Kreide",
+        "Buntes Haarband",
+        "Tinkturen",
+        "Schleier",
+        "Stirnreif",
+        "Edelstein",
+        "Alt Bosbaranische Vase",
+        "Siegelwachs",
+        "Gewürz"]
+
+anzahl = ["Holzmurmeln",
+        "Einkaufliste",
+        "Wollknäul",
+        "Stück Kreide",
+        "Nägel",
+        "Tierknochen",
+        "Zähne im Lederbeutel",
+        "Buntes Haarband",
+        "Räucherstäbchen",
+        "Talisman aus Federn",
+        "Einfacher Holzring",
+        "Granatkristall",
+        "Aquamarin",
+        "Schreibfeder"]
+
+portionen = ["Sehr Beißender schnupftaback",
+            "Billiger Kautabak",
+            "Ruß zum Schminken",
+            "Pfeife mit Tabak", 
+            "Siegelwachs", 
+            "Tontigel mit Fettsalbe",
+            "Gesichtspuder",
+            "Gewürz",
+            "Getrocknete Teeblätter",
+            "Ilmenblatt",
+            "Smaragtgrüne Schreibtinte",
+            "Bronzeschatulle mit Tabak",]
+
+füllstand = ["Tintenfass",
+            "Kleine Schnapsflasche",
+            "Exquisiter schnaps",
+            "Phiole mit verschluss"]
+
+seite = ["Socke"]
+
+metall_zusatz = ["Nägel",
+                 "Faltmesser",
+                 "Vinsalter Ei"]
+
+gott = ["Götterstatuette",
+        "Ring mit Göttersymbol",
+        "12 Göttliches Gebetsbuch"]
+
+gott_tier = ["Halskette in Tierform"]
